@@ -14,7 +14,7 @@
 {"key":"csp_SP33","name":"🍇三三解析┃买康兄影视盒子就送双端专享会员","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"南瓜","name":"🎃南瓜┃买康兄影视盒子就送双端专享会员","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 {"key":"drpy_js_酷奇","name":"🎙酷奇MV┃买康兄影视盒子就送双端专享会员","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷奇MV.js"},
-{"key":"drpy_js_秋霞","name":"🦚秋霞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
+{"key":"drpy_js_秋霞","name":"🦚秋霞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞电影网.js"},
 {"key":"drpy_js_555电影","name":"🌳555电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"}
 ],
 
